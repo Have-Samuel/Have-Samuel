@@ -1,7 +1,13 @@
-### Hi there 👋
+### Hi there 👋, I am Have Samuel! 
+----
 
-<!--
-**Have-Samuel/Have-Samuel** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+![GitHub followers](https://img.shields.io/github/followers/Have-Samuel?label=Follow%20me%20on%20Github&style=for-the-badge)
+![Twitter Follow](https://img.shields.io/twitter/follow/samhave1?style=for-the-badge)
+-
+I'm a software developer who is passionate about making contributing to open-source more approachable, creating technology to elevate people, and building community. Some technologies I enjoy working with include JavaScript, APIs + Markup.
+-
+<code><img height="20" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/javascript/javascript.png"></code>
+
 
 Here are some ideas to get you started:
 
@@ -13,4 +19,3 @@ Here are some ideas to get you started:
 - 📫 How to reach me: ...
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
--->
