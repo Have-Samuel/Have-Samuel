@@ -2,10 +2,11 @@
 ----
 
 ![GitHub followers](https://img.shields.io/github/followers/Have-Samuel?label=Follow%20me%20on%20Github&style=for-the-badge)
-![Twitter Follow](https://img.shields.io/twitter/follow/samhave1?style=for-the-badge)
--
+![Twitter Follow](https://img.shields.io/twitter/follow/samhave1?label=follow%20me%20on%20twitter&style=for-the-badge)
+--
 I'm a software developer who is passionate about making contributing to open-source more approachable, creating technology to elevate people, and building community. Some technologies I enjoy working with include JavaScript, APIs + Markup.
--
+--
+<img src="https://github.com/devicons/devicon/blob/master/icons/javascript/javascript-original.svg" alt="javascript icon" width="50" height="50"/>
 <code><img height="20" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/javascript/javascript.png"></code>
 
 
