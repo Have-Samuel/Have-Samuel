@@ -7,11 +7,11 @@
 I'm a software developer who is passionate about making contributing to open-source more approachable, creating technology to elevate people, and building community. Some technologies I enjoy working with include JavaScript, APIs + Markup.
 --
 ## ⭐ Stats 
-[![My GitHub Stats](https://github-readme-stats.vercel.app/api/?username=retky&count_private=true&theme=slateorange&show_icons=true)]()
+[![My GitHub Stats](https://github-readme-stats.vercel.app/api/?username=Have-Samuel&count_private=true&theme=slateorange&show_icons=true)]()
 
-[![My GitHub Streak](http://github-readme-streak-stats.herokuapp.com?user=retky&count_private=true&theme=slateorange)]()
+[![My GitHub Streak](http://github-readme-streak-stats.herokuapp.com?user=Have-Samuel&count_private=true&theme=slateorange)]()
 
-[![My GitHub Language Stats](https://github-readme-stats.vercel.app/api/top-langs/?username=retky&langs_count=8&count_private=true&layout=compact&theme=slateorange)]()
+[![My GitHub Language Stats](https://github-readme-stats.vercel.app/api/top-langs/?username=Have-Samuel&langs_count=8&count_private=true&layout=compact&theme=slateorange)]()
 
 --
 ## 🧰 Languages & Tools 
