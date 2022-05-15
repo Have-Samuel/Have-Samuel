@@ -29,7 +29,3 @@
 - Your future life savior :stuck_out_tongue: on [Medium](https://medium.com/@samiehave9).
 - Your future employee on [LinkedIn](https://www.linkedin.com/in/have-samuel/)
 - And of course GitHub you're already on (Recursion).
-<p align="left">
-<a href="https://twitter.com/samhave1" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="@juanse77930" height="30" width="40" /></a>
-<a href="inkedin.com/in/have-samuel/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="https://www.linkedin.com/in/juan-sebastian-sotomayor-2bb395198/" height="30" width="40" /></a>
-</p>
