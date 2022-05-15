@@ -11,8 +11,6 @@
 
 - ❤️ Ask me about **HTML, CSS, SCSS, Figma, JavaScript, React/Redux, Webpack, Testing**
 
-- 📫 How to reach me **samiehave9@gmail.com**
-
 - ⚡ Free Time **Rugby is the fun time**
 
 ## ⭐ Stats 
@@ -28,4 +26,5 @@
 - Your future buddy to discuss Android related things and tech in general on [Twitter](https://twitter.com/samhave1).
 - Your future life savior :stuck_out_tongue: on [Medium](https://medium.com/@samiehave9).
 - Your future employee on [LinkedIn](https://www.linkedin.com/in/have-samuel/)
+- 📫 [email] **samiehave9@gmail.com**
 - And of course GitHub you're already on (Recursion).
