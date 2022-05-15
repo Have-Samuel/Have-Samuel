@@ -4,7 +4,15 @@
 ![GitHub followers](https://img.shields.io/github/followers/Have-Samuel?label=Follow%20me%20on%20Github&style=for-the-badge)
 ![Twitter Follow](https://img.shields.io/twitter/follow/samhave1?label=follow%20me%20on%20twitter&style=for-the-badge)
 --
-I'm a software developer who is passionate about making contributing to open-source more approachable, creating technology to elevate people, and building community. Some technologies I enjoy working with include JavaScript, React and APIs + Markup.
+- ![image](https://user-images.githubusercontent.com/83591312/168473358-e4981adf-937f-40ed-be60-c5cc914ea31c.png) I’m currently Studying on **Microverse**
+
+- 🌱 I’m currently learning **Ruby & Databadses, Ruby on Rails**
+
+- 💬 Ask me about **HTML, CSS, Figma, JavaScript, React/Redux, Webpack, Testing**
+
+- 📫 How to reach me **juanse_sotomayor@hotmail.com**
+
+- ⚡ Fun fact **I'm also Drummer, Center Forward and Volley player**
 --
 ## 🧰 Skills 
 HTML5 | CSS | JavaScript | ES6| Bootstrap | Webpack | Git | GitHub |
