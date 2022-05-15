@@ -4,19 +4,16 @@
 ![GitHub followers](https://img.shields.io/github/followers/Have-Samuel?label=Follow%20me%20on%20Github&style=for-the-badge)
 ![Twitter Follow](https://img.shields.io/twitter/follow/samhave1?label=follow%20me%20on%20twitter&style=for-the-badge)
 --
-![image](https://user-images.githubusercontent.com/83591312/168473499-d8be8427-4b99-46b8-90e9-5e016fcb6f72.png)
-I’m currently Studying on **Microverse**
+
+- 💼 I’m currently Studying on **Microverse**
 
 - 🌱 I’m currently learning **Ruby & Databadses, Ruby on Rails**
 
-- 💬 Ask me about **HTML, CSS, Figma, JavaScript, React/Redux, Webpack, Testing**
+- ❤️ Ask me about **HTML, CSS, Figma, JavaScript, React/Redux, Webpack, Testing**
 
-- 📫 How to reach me **juanse_sotomayor@hotmail.com**
+- 📫 How to reach me **samiehave9@gmail.com**
 
-- ⚡ Fun fact **I'm also Drummer, Center Forward and Volley player**
---
-## 🧰 Skills 
-HTML5 | CSS | JavaScript | ES6| Bootstrap | Webpack | Git | GitHub |
+- ⚡ Free Time **Rugby is the fun time**
 --
 ## ⭐ Stats 
 [![My GitHub Stats](https://github-readme-stats.vercel.app/api/?username=Have-Samuel&count_private=true&theme=slateorange&show_icons=true)]()[![My GitHub Streak](http://github-readme-streak-stats.herokuapp.com?user=Have-Samuel&count_private=true&theme=slateorange)]()[![My GitHub Language Stats](https://github-readme-stats.vercel.app/api/top-langs/?username=Have-Samuel&langs_count=8&count_private=true&layout=compact&theme=slateorange)]()
