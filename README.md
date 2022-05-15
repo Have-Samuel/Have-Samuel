@@ -9,7 +9,7 @@
 
 - 🌱 I’m currently learning **Ruby & Databadses, Ruby on Rails**
 
-- ❤️ Ask me about **HTML, CSS, Figma, JavaScript, React/Redux, Webpack, Testing**
+- ❤️ Ask me about **HTML, CSS, SCSS, Figma, JavaScript, React/Redux, Webpack, Testing**
 
 - 📫 How to reach me **samiehave9@gmail.com**
 
