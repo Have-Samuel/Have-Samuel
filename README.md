@@ -4,7 +4,8 @@
 ![GitHub followers](https://img.shields.io/github/followers/Have-Samuel?label=Follow%20me%20on%20Github&style=for-the-badge)
 ![Twitter Follow](https://img.shields.io/twitter/follow/samhave1?label=follow%20me%20on%20twitter&style=for-the-badge)
 --
-- ![image](https://user-images.githubusercontent.com/83591312/168473358-e4981adf-937f-40ed-be60-c5cc914ea31c.png width="30" height="50") I’m currently Studying on **Microverse**
+![image](https://user-images.githubusercontent.com/83591312/168473499-d8be8427-4b99-46b8-90e9-5e016fcb6f72.png)
+I’m currently Studying on **Microverse**
 
 - 🌱 I’m currently learning **Ruby & Databadses, Ruby on Rails**
 
