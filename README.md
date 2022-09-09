@@ -5,11 +5,9 @@
 ![Twitter Follow](https://img.shields.io/twitter/follow/samhave1?label=follow%20me%20on%20twitter&style=for-the-badge)
 --
 
-- 💼 I’m currently Studying on **Microverse**
+-  I’m currently on Job Searching **💼**
 
-- 🌱 I’m currently learning **Ruby & Databadses, Ruby on Rails**
-
-- ❤️ Ask me about **HTML, CSS, SCSS, Figma, JavaScript, React/Redux, Webpack, Testing**
+- ❤️ Ask me about 🌱 **HTML, CSS, SCSS, Figma, JavaScript, React, and Ruby on Rails**
 
 - ⚡ Free Time **Rugby is the fun time**
 
