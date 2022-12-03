@@ -11,7 +11,43 @@
 [![My GitHub Stats](https://github-readme-stats.vercel.app/api/?username=Have-Samuel&count_private=true&theme=slateorange&show_icons=true)]()[![My GitHub Streak](http://github-readme-streak-stats.herokuapp.com?user=Have-Samuel&count_private=true&theme=slateorange)]()[![My GitHub Language Stats](https://github-readme-stats.vercel.app/api/top-langs/?username=Have-Samuel&langs_count=8&count_private=true&layout=compact&theme=slateorange)]()
 --
 
-## 🧰 Languages & Tools 
+## 🧰 Tech Stack
+## Languages
+[![](https://img.shields.io/badge/JavaScript-F7DF1E.svg?logo=javascript&logoColor=black)](https://developer.mozilla.org/en-US/docs/Web/JavaScript)
+[![](https://img.shields.io/badge/Ruby-CC342D.svg?logo=ruby&logoColor=white)](https://www.ruby-lang.org/en/)
+[![](https://img.shields.io/badge/HTML5-E34F26.svg?logo=html5&logoColor=white)](https://developer.mozilla.org/en-US/docs/Web/Guide/HTML/HTML5)
+[![](https://img.shields.io/badge/CSS3-1572B6.svg?logo=css3&logoColor=white)](https://developer.mozilla.org/en-US/docs/Web/CSS)
+[![](https://img.shields.io/badge/PostgreSQL-316192.svg?logo=postgresql&logoColor=white)](https://www.postgresql.org/)
+[![](https://img.shields.io/badge/Markdown-000000.svg?logo=markdown&logoColor=white)](https://www.markdownguide.org/)
+
+**Frameworks & Libraries**
+
+[![](https://img.shields.io/badge/SASS-CC6699.svg?logo=sass&logoColor=white)](https://sass-lang.com)
+[![](https://img.shields.io/badge/React-20232A.svg?logo=react&logoColor=61DAFB)](https://reactjs.org/)
+[![](https://img.shields.io/badge/Ruby_on_Rails-CC0000.svg?logo=ruby-on-rails&logoColor=white)](https://rubyonrails.org/)
+[![](https://img.shields.io/badge/Bootstrap-563D7C.svg?logo=bootstrap&logoColor=white)](https://getbootstrap.com/)
+[![](https://img.shields.io/badge/Redux-764ABC.svg?logo=redux&logoColor=white)](https://redux.js.org/)
+[![](https://img.shields.io/badge/Webpack-8DD6F9.svg?logo=webpack&logoColor=black)](https://webpack.js.org/)
+
+**Testing**
+
+[![](https://img.shields.io/badge/Jest-C21325.svg?logo=jest&logoColor=white)](https://jestjs.io/)
+[![](https://img.shields.io/badge/RSpec-CC0000.svg?logo=ruby&logoColor=white)](https://rspec.info/)
+
+**Tools**
+
+[![](https://img.shields.io/badge/Git-F05032.svg?logo=git&logoColor=white)](https://git-scm.com/)
+[![](https://img.shields.io/badge/GitHub-181717.svg?logo=github&logoColor=white)]()
+[![](https://img.shields.io/badge/GitLab-FCA121.svg?logo=gitlab&logoColor=white)](https://about.gitlab.com/)
+[![](https://img.shields.io/badge/Postman-FF6C37.svg?logo=postman&logoColor=white)](https://www.postman.com/)
+[![](https://img.shields.io/badge/Heroku-430098.svg?logo=heroku&logoColor=white)](https://www.heroku.com/)
+[![](https://img.shields.io/badge/Netlify-00C7B7.svg?logo=netlify&logoColor=white)](https://www.netlify.com/)
+
+[![](https://img.shields.io/badge/Adobe_Illustrator-330000.svg?logo=adobe-illustrator&logoColor=FE9A00)](https://www.adobe.com/products/illustrator.html)
+[![](https://img.shields.io/badge/Adobe_Photoshop-001E36.svg?logo=adobe-photoshop&logoColor=00AAFF)](https://www.adobe.com/products/photoshop.html)
+[![](https://img.shields.io/badge/Adobe_InDesign-3E021B.svg?logo=adobe-indesign&logoColor=FD3365)](https://www.adobe.com/products/indesign.html)
+[![](https://img.shields.io/badge/AutoCAD-CC0302.svg?logo=autodesk&logoColor=white)](https://www.autodesk.com/products/autocad/overview)
+
 <p align="left">  <a href="https://getbootstrap.com" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/bootstrap/bootstrap-plain-wordmark.svg" alt="bootstrap" width="40" height="40"/> </a> <a href="https://www.w3schools.com/css/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original-wordmark.svg" alt="css3" width="40" height="40"/> </a> <a href="https://www.figma.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/figma/figma-icon.svg" alt="figma" width="40" height="40"/> </a> <a href="https://www.w3.org/html/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original-wordmark.svg" alt="html5" width="40" height="40"/> </a>  <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" alt="javascript" width="40" height="40"/> </a> <a href="https://git-scm.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" alt="git" width="40" height="40"/> </a> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/jest/jest-plain.svg" alt="jest" width="40" height="40"/> </a> </a> <a href="https://mochajs.org/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/sass/sass-original.svg" alt="sass" width="40" height="40"/> </a> <a href="https://unity.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/unity3d/unity3d-icon.svg" alt="unity" width="40" height="40"/> </a> <a href="https://unrealengine.com/" target="_blank" rel="noreferrer"> <a href="https://reactjs.org/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original-wordmark.svg" alt="react" width="40" height="40"/> </a> <a href="https://webpack.js.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/d00d0969292a6569d45b06d3f350f463a0107b0d/icons/webpack/webpack-original-wordmark.svg" alt="webpack" width="40" height="40"/> </a> <a href="https://www.ruby-lang.org/en/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/ruby/ruby-original.svg" alt="ruby" width="40" height="40"/> </a> <a href="https://rubyonrails.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/rails/rails-original-wordmark.svg" alt="rails" width="40" height="40"/> </a>
   </p>
 
