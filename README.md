@@ -1,4 +1,5 @@
-### Hi there 👋, I am Have Samuel! 
+<h1 align="center">Hello! 👋, I'm Have</h1>
+<h3 align="center">Samuel Kabareebe.</h3>
 ----
 ## 📜 About Me 
 - 💻 Full-Stack Web Developer
