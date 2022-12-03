@@ -1,7 +1,8 @@
 <h1 align="center">Hello! 👋, I'm Have</h1>
 <h3 align="center">Samuel Kabareebe.</h3>
-----
-## 📜 About Me 
+
+## 📜 About Me
+
 - 💻 Full-Stack Web Developer
 - 💼 Experience in Web development
 - 🎓 Degree in Electrical Engineering
