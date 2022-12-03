@@ -12,7 +12,7 @@
 --
 
 ## 🧰 Tech Stack
-## Languages
+**Languages**
 [![](https://img.shields.io/badge/JavaScript-F7DF1E.svg?logo=javascript&logoColor=black)](https://developer.mozilla.org/en-US/docs/Web/JavaScript)
 [![](https://img.shields.io/badge/Ruby-CC342D.svg?logo=ruby&logoColor=white)](https://www.ruby-lang.org/en/)
 [![](https://img.shields.io/badge/HTML5-E34F26.svg?logo=html5&logoColor=white)](https://developer.mozilla.org/en-US/docs/Web/Guide/HTML/HTML5)
