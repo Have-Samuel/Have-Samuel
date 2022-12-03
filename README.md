@@ -1,10 +1,5 @@
 ### Hi there 👋, I am Have Samuel! 
 ----
-
-![GitHub followers](https://img.shields.io/github/followers/Have-Samuel?label=Follow%20me%20on%20Github&style=for-the-badge)
-![Twitter Follow](https://img.shields.io/twitter/follow/samhave1?label=follow%20me%20on%20twitter&style=for-the-badge)
---
-
 -  I’m currently on Job Searching **💼**
 
 - ❤️ Ask me about 🌱 **HTML, CSS, SCSS, Figma, JavaScript, React, and Ruby on Rails**
