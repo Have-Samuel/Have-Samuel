@@ -1,9 +1,10 @@
 ### Hi there 👋, I am Have Samuel! 
 ----
--  I’m currently on Job Searching **💼**
-
-- ❤️ Ask me about 🌱 **HTML, CSS, SCSS, Figma, JavaScript, React, and Ruby on Rails**
-
+## 📜 About Me 
+- 💻 Full-Stack Web Developer
+- 💼 Experience in Web development
+- 🎓 Degree in Electrical Engineering
+-  🌱Love solving challenges and learning new things everyday
 - ⚡ Free Time **Rugby is the fun time**
 
 ## ⭐ Stats 
