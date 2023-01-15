@@ -9,10 +9,6 @@
 -  🌱Love solving challenges and learning new things everyday
 - ⚡ Free Time **Rugby is the fun time**
 
-## ⭐ Stats 
-[![My GitHub Stats](https://github-readme-stats.vercel.app/api/?username=Have-Samuel&count_private=true&theme=slateorange&show_icons=true)]()[![My GitHub Streak](http://github-readme-streak-stats.herokuapp.com?user=Have-Samuel&count_private=true&theme=slateorange)]()[![My GitHub Language Stats](https://github-readme-stats.vercel.app/api/top-langs/?username=Have-Samuel&langs_count=8&count_private=true&layout=compact&theme=slateorange)]()
---
-
 ## 🧰 Tech Stack
 
 **Languages**
