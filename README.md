@@ -3,7 +3,7 @@
 
 ## 📜 About Me
 
-- 💻 Full-Stack Web Developer
+- 💻 Software Engineer|Frontend|React.JS 
 - 💼 Experience in Web development
 - 🎓 Degree in Electrical Engineering
 -  🌱Love solving challenges and learning new things every day
