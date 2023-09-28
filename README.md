@@ -6,7 +6,7 @@
 - 💻 Software Engineer | Frontend | React.JS 
 - 💼 Experience in Web development
 - 🎓 Degree in Electrical Engineering
--  🌱Love solving challenges and learning new things every day
+- 🌱Love solving challenges and learning new things every day
 - ⚡ Free Time **Rugby is the fun time**
 
 ## 🧰 Tech Stack
