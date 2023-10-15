@@ -52,6 +52,6 @@
 
 - Your future buddy to discuss Android related things and tech in general on [Twitter](https://twitter.com/samhave1).
 - Your future life savior :stuck_out_tongue: on [Medium](https://medium.com/@samiehave9).
-- Your future employee on [LinkedIn](https://www.linkedin.com/in/have-samuel/)
+- Your future employee :stuck_out_tongue: on [LinkedIn](https://www.linkedin.com/in/have-samuel/)
 - 📫 Reach out to me [Email](samiehave9@gmail.com)
 - And of course GitHub you're already on (Recursion).
