@@ -1,4 +1,4 @@
-<h1 align="center">Hello! 👋, I'm Have</h1>
+<h1 align="center">Hello! 👋, I'm **Have**</h1>
 <h3 align="center">Samuel Kabareebe.</h3>
 
 ## 📜 About Me
